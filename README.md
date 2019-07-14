@@ -1,6 +1,6 @@
-### Matador de Monstro com Vue JS
+## Matador de Monstro com Vue JS
 Uma gerenciador de tarefas ou checklist de atividades para consolidar aprendizado usando Vue JS
-## Development
+### Development
 npm i
 </br>
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100px" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a>
