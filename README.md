@@ -1,4 +1,4 @@
-## Matador de Monstro com Vue JS
+## Gerenciados de tarefas com Vue JS
 Uma gerenciador de tarefas ou checklist de atividades para consolidar aprendizado usando Vue JS
 ### Development
 npm i
