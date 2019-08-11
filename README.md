@@ -1,7 +1,7 @@
 ## Gerenciados de tarefas com Vue JS
 Uma gerenciador de tarefas ou checklist de atividades para consolidar aprendizado usando Vue JS
 ### Development
-npm i
+npm i </br>
 npm run serve
 </br>
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100px" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a>
