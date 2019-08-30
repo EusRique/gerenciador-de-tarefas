@@ -1,8 +1,6 @@
 ## Gerenciados de tarefas com Vue JS
 Uma gerenciador de tarefas ou checklist de atividades para consolidar aprendizado usando Vue JS
 
-# Gerenciador de Tarefas
-
 > Gerenciador de Tarefas
 
 ## Build Setup
